@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #000;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.reloj{
+    color: #17d4fe;
+    font-size: 60px;
+    letter-spacing: 10px;
+}
+
+.dia{
+    color: #17d4fe;
+    font-size: 60px;
+}
